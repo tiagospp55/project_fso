@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/tiago/Desktop/somm22-so-p3g2/lib/libsup.a CMakeFiles/sup.dir/exception.cpp.o CMakeFiles/sup.dir/probing.cpp.o
+/usr/bin/ranlib /home/tiago/Desktop/somm22-so-p3g2/lib/libsup.a

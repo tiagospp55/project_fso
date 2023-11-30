@@ -1,0 +1,7 @@
+pct - guarda a informação dos processos a serem simuladadas
+
+
+pctinit - initializa a estrutura de dados
+
+PCT - TEM DE ASSOCIAR UM PROCESSO A UM TUPLO DE DADOS
+
